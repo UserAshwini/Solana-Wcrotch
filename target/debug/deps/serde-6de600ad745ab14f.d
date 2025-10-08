@@ -1,0 +1,12 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/deps/serde-6de600ad745ab14f.d: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/build/serde-7cb620e44cc644da/out/private.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/deps/libserde-6de600ad745ab14f.rmeta: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/build/serde-7cb620e44cc644da/out/private.rs
+
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/build/serde-7cb620e44cc644da/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/build/serde-7cb620e44cc644da/out
