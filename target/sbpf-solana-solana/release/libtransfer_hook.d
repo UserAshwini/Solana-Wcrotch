@@ -1,0 +1,1 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/libtransfer_hook.rlib: /Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/programs/transfer-hook/src/lib.rs
