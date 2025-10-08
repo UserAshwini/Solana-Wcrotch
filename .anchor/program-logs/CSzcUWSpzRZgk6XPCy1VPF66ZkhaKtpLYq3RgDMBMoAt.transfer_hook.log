@@ -1,0 +1,38 @@
+Streaming transaction logs mentioning CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt. Confirmed commitment
+Transaction executed in slot 413110693:
+  Signature: 4NrXE4UYsAkJECHrrfJNPkMGEdQ9RULoiZwhY6v9LTxi7YsnsKKmbgvLMLA4YwthSxNBWqvYVJMk2RjpHpcX6jXB
+  Status: Ok
+  Log Messages:
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb invoke [2]
+    Program log: TransferHookInstruction::Initialize
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb consumed 900 of 193281 compute units
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb success
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb consumed 1957 of 190648 compute units
+    Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb success
+    Program log: TransferHook { authority: OptionalNonZeroPubkey(AXGSr6U7bcXiVMJT8NFPvpsejr5pFwDWVVPEtMWDHZbv), program_id: OptionalNonZeroPubkey(CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt) }
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt consumed 19593 of 200000 compute units
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt success
+Transaction executed in slot 413110703:
+  Signature: 2XKKmqiCqLuHCp4JD1pN5sBAQzzv26BABCygvDbz6nD2bYxfqyZbPb4wbzqm3mHReieHLq9xbmqJHML6D3hPfjUq
+  Status: Error processing Instruction 0: invalid account data for instruction
+  Log Messages:
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt invoke [1]
+    Program log: Instruction: InitializeExtraAccountMetaList
+    Program log: ProgramError occurred. Error Code: InvalidAccountData. Error Number: 17179869184. Error Message: An account's data contents was invalid.
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt consumed 8314 of 200000 compute units
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt failed: invalid account data for instruction
+Transaction executed in slot 413110707:
+  Signature: ra4tvfrxKRSY7HrLpMj6HEemBBZmtGS6qa242AWcx1PHX938wpwavfVMidnKqBibtC29XqAq5fDCHuqRtQZdPAk
+  Status: Error processing Instruction 0: custom program error: 0x1770
+  Log Messages:
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt invoke [1]
+    Program log: Instruction: TransferHook
+    Program log: AnchorError thrown in programs/transfer-hook/src/lib.rs:83. Error Code: IsNotCurrentlyTransferring. Error Number: 6000. Error Message: The token is not currently transferring.
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt consumed 9979 of 200000 compute units
+    Program CSzcUWSpzRZgk6XPCy1VPF66ZkhaKtpLYq3RgDMBMoAt failed: custom program error: 0x1770

@@ -1,1 +1,1 @@
-/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/transfer_hook.so: /Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/programs/transfer-hook/src/lib.rs
+/Users/ashwiniupadhyay/Solana-Wcrotch/target/sbpf-solana-solana/release/transfer_hook.so: /Users/ashwiniupadhyay/Solana-Wcrotch/programs/transfer-hook/src/lib.rs
