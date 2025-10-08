@@ -1,0 +1,9 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libsolana_system_interface-b562ac95999af371.rmeta: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libsolana_system_interface-b562ac95999af371.rlib: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/solana_system_interface-b562ac95999af371.d: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs:
