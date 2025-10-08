@@ -1,0 +1,8 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/deps/spl_token_metadata_interface-e38affc979660010.d: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/error.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/instruction.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/debug/deps/libspl_token_metadata_interface-e38affc979660010.rmeta: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/error.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/instruction.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/lib.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/error.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/instruction.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-metadata-interface-0.6.0/src/state.rs:

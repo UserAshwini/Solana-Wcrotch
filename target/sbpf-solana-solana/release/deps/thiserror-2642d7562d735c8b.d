@@ -1,0 +1,10 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libthiserror-2642d7562d735c8b.rmeta: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libthiserror-2642d7562d735c8b.rlib: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/thiserror-2642d7562d735c8b.d: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
