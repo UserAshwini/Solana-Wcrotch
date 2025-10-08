@@ -1,0 +1,9 @@
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-097631931b321ed5.rmeta: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-097631931b321ed5.rlib: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/ashwiniupadhyay/hello-world-transfer-hook-token2022/target/sbpf-solana-solana/release/deps/solana_loader_v4_interface-097631931b321ed5.d: /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs:
+/Users/ashwiniupadhyay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs:
